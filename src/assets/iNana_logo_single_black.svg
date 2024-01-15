@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>iNana_logo_single_black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="CIS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Branding-Guidelines" transform="translate(-712.000000, -2738.000000)">
+            <g id="Group-3" transform="translate(712.000000, 2738.000000)">
+                <path d="M50,0 L150,0 C177.614237,0 200,22.3857625 200,50 L200,150 C200,177.614237 177.614237,200 150,200 L50,200 C22.3857625,200 0,177.614237 0,150 L0,50 C0,22.3857625 22.3857625,0 50,0 Z" id="Rectangle" fill="#000000"></path>
+                <circle id="Oval" fill="#5A5A5A" transform="translate(77.333333, 100.000000) scale(-1, -1) translate(-77.333333, -100.000000) " cx="77.3333333" cy="100" r="60"></circle>
+                <path d="M27.575974,110.242641 L77.3333333,160 L77.3333333,160 L17.3333333,160 L17.3333333,114.485281 C17.3333333,111.171573 20.0196248,108.485281 23.3333333,108.485281 C24.9246323,108.485281 26.4507557,109.117422 27.575974,110.242641 Z" id="Triangle" fill="#5A5A5A" transform="translate(47.333333, 130.000000) scale(-1, -1) rotate(-270.000000) translate(-47.333333, -130.000000) "></path>
+                <path d="M132.909307,50.2426407 L182.666667,100 L182.666667,100 L122.666667,100 L122.666667,54.4852814 C122.666667,51.1715729 125.352958,48.4852814 128.666667,48.4852814 C130.257966,48.4852814 131.784089,49.1174224 132.909307,50.2426407 Z" id="Triangle" fill="#FFFFFF" transform="translate(152.666667, 70.000000) rotate(-270.000000) translate(-152.666667, -70.000000) "></path>
+                <circle id="Oval" fill="#FFFFFF" cx="122.666667" cy="100" r="60"></circle>
+                <path d="M100.00075,44.4294421 C121.900753,53.3717162 137.333333,74.8836219 137.333333,100 C137.333333,125.116378 121.900753,146.628284 100.00075,155.570558 C78.0992474,146.628284 62.6666667,125.116378 62.6666667,100 C62.6666667,75.1471863 77.7770564,53.8235931 99.3119589,44.7150974 Z" id="Combined-Shape" fill="#969696" opacity="0.544782366"></path>
+                <rect id="Rectangle" fill="#5A5A5A" x="84" y="87.3333333" width="10" height="25.3333333" rx="5"></rect>
+                <rect id="Rectangle" fill="#5A5A5A" x="106" y="87.3333333" width="10" height="25.3333333" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
